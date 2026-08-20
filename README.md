@@ -87,6 +87,12 @@ cd Tetris
 1. Откройте папку проекта через Unity Hub.
 2. Выберите версию редактора Unity 6 (6000.0.4f1) или новее.
 3. Нажмите Play в редакторе для тестирования.
+```
 
 Проект создан с нуля в качестве изучения Unity и геймдизайна.
 
+<img width="589" height="436" alt="image" src="https://github.com/user-attachments/assets/d6f1f8d1-0d0f-4ccd-9e6f-93e5339dc214" />
+
+<img width="589" height="436" alt="image" src="https://github.com/user-attachments/assets/9d3fd76d-a061-49b0-810e-ebd57511c5ec" />
+
+<img width="589" height="436" alt="image" src="https://github.com/user-attachments/assets/372b7a56-5394-4024-9f23-1114ca121093" />
